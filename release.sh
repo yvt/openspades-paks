@@ -27,7 +27,7 @@ rm -f "$OUTFILE"
 zip "$OUTFILE" \
     Nonfree/LICENSE.md \
     Nonfree/pak000-Nonfree.pak \
-    OfficialMods/LICENSE.md \
+    OfficialMods/LICENSE \
     OfficialMods/font-unifont.pak
 
 echo "$OUTFILE was created."
